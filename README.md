@@ -81,6 +81,12 @@ https://github.com/nitinrgupta/figmoji
 #### Reverse layer order
 https://github.com/mikegowen/figma-reverse-layer-order
 
+### Compliments
+https://github.com/AndrewGene/Compliments
+
+### Autocover
+https://github.com/AndrewGene/Autocover
+
 
 
 ## Resources
